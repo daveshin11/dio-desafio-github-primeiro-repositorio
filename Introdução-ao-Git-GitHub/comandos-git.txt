@@ -1,0 +1,31 @@
+comandos git de navegação.
+
+Windows cmd:
+-dc
+-dir
+-mkdir
+-del / rmdir
+-cls
+
+-ls -a [listar pastas ocultas]
+
+Unix - GitBash:
+-cd
+-ls
+-mkdir
+-rm -rf
+-clear / ctrl+l
+
+-ls -a [listar pastas ocultas]
+
+-git init
+-git add nome-arquivo [adiciona apenas o arquivo editado selecionado]
+-git add . / git add * [adiciona todos arquivos alterados para staged]
+-git commit
+-echo > nome-arquivo [cria arquivo dentro da pasta que esta]
+
+-git push [empurra um projeto para um repositorio remoto]
+-git pull [puxa um projeto de um repositorio para o servidor local]
+
+
+------------------------------------------------------------------------
