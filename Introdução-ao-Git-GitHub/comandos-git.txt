@@ -1,4 +1,4 @@
-# comandos git de navegação.
+comandos git de navegação.
 
 Windows cmd:
 -dc
